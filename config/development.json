@@ -1,0 +1,6 @@
+{
+  "db": "mongodb+srv://dimensions_dev:H3jW6EP5VP6qjqj@expo-dev.sm04u.mongodb.net/dimensions?retryWrites=true&w=majority",
+  "port": 3000,
+  "jwtKey": "jwtPrivateKey",
+  "googleClientId": "348576959035-qs7tvgi0kfbua2mo2uun12qcsjpb5h0k.apps.googleusercontent.com"
+}
